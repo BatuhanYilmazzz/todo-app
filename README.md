@@ -1,5 +1,4 @@
 # ToDoApp
-# GithubFinder Project
 
 This project is part of javascript learning series project.This is basic TodoApp which is a milestone of learning Javascript.The main focus is that using Dom Manipulation and deploy informations to local storage.
 
@@ -9,8 +8,7 @@ This project is part of javascript learning series project.This is basic TodoApp
 - Html5
 - Css3
 - Bootstrap
-- JavaScript (ES6)
-
+- JavaScript (ES6)/(Dom Manip.-LocalStorage)
 
 
 ## Usage
